@@ -1,9 +1,9 @@
 /node_modules
 /.pnp
 .pnp.js
-./serviceWorker.js
-./setupTests.js
-./store.js
+/.serviceWorker.js
+/.setupTests.js
+/.store.js
 
 
 # testing
